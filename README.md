@@ -1,4 +1,4 @@
 # demo
 this my first repository :
 <br>
-author - Ritesh rathod
+<i>author - Ritesh rathod</i>
